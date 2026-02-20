@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abu Ya'rub (أبو يعرب)
 
-🚀 Full-Stack Developer | SaaS Builder | Business Owner  
+🚀 Projects Manager & Prototypes Developer | SaaS Builder | Business Owner  
 💡 I build scalable digital products with a strong focus on automation, education platforms, and smart systems.
 
 ---
