@@ -1,15 +1,21 @@
-# 👋 Hi, I'm Abu Ya'rub (أبو يعرب)
+<h1 align="center">👋 Hi, I'm Abu Ya'rub <br/> <sub>(أبو يعرب)</sub></h1>
 
-🚀 Projects Manager & Prototypes Developer | SaaS Builder | Business Owner 
+<p align="center">
+  <strong>SaaS Builder • Projects Manager • Prototypes Developer • Business Owner</strong>
+</p>
 
-💡 I build scalable digital products with a strong focus on automation, education platforms, and smart systems.
+<p align="center">
+  I design and build scalable digital products focused on automation, education platforms, and intelligent systems.
+</p>
+
 ---
 
-### 🧠 Focus
-- SaaS & LMS Platforms  
-- Automation (n8n, Webhooks)  
-- AI & RAG Systems  
-- Clean & Scalable Architectures  
+## 🧠 Core Focus
+
+- 🚀 **SaaS & LMS Platforms**
+- 🔄 **Automation Systems** (n8n • Webhooks • Workflows)
+- 🤖 **AI & RAG Architectures**
+- 🏗 **Clean, Scalable System Design**
 
 ---
 
@@ -17,10 +23,12 @@
 
 <p align="center">
   <a href="https://tahaio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-tahaio.com-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-tahaio.com-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-Building products that scale. Automating what repeats. Delivering impact.
+<p align="center">
+  <em>Build what scales. Automate what repeats. Ship with impact.</em>
+</p>
