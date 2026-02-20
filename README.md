@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Abu Ya'rub (أبو يعرب)
 
-#🚀 Projects Manager & Prototypes Developer | SaaS Builder | Business Owner 
-#💡 I build scalable digital products with a strong focus on automation, education platforms, and smart systems.
+🚀 Projects Manager & Prototypes Developer | SaaS Builder | Business Owner 
+
+💡 I build scalable digital products with a strong focus on automation, education platforms, and smart systems.
 ---
 
 ### 🧠 Focus
